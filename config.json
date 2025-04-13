@@ -1,0 +1,6 @@
+{
+    "directory_to_analyze": "C:\\Windows\\System32",
+    "output_csv": "dll_analysis_results.csv",
+    "file_extensions": [".dll", ".exe"]  
+}
+  
